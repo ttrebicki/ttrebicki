@@ -1,4 +1,4 @@
-#dancing-hor { 
+.dancing-hor { 
   background-image: linear-gradient(to right, black 33%, rgba(255,255,255,0) 0%);
   background-position: bottom;
   background-size: 3px 1px;
@@ -8,7 +8,7 @@
   animation-duration: 3s;
 }
 
-#dancing-vert {
+.dancing-vert {
   background-image: linear-gradient(black 33%, rgba(255,255,255,0) 0%);
   background-position: right;
   background-size: 1px 3px;
