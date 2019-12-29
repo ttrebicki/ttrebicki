@@ -27,7 +27,8 @@
     }
   100% {
     background-size: 3px 1px;
-  }
+    }
+ }
   
   @keyframes dance-vert {
   0% {
@@ -38,4 +39,5 @@
     }
   100% {
     background-size: 1px 3px;
+    }
   }
